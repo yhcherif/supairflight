@@ -1,4 +1,4 @@
-supairflight
+supairflight - MVC
 ============
 
-My first git repo based on my first php project
+My first git repo based on my php project
